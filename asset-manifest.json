@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.6691a0a0.css",
-    "main.js": "/Portfolio/static/js/main.0c26908f.js",
+    "main.css": "/Portfolio/static/css/main.77b4d99a.css",
+    "main.js": "/Portfolio/static/js/main.249c7f1b.js",
     "static/js/787.2dcca737.chunk.js": "/Portfolio/static/js/787.2dcca737.chunk.js",
     "static/media/remy_loz-3S0INpfREQc-unsplash (1).jpg": "/Portfolio/static/media/remy_loz-3S0INpfREQc-unsplash (1).5d345e306ca2498618a4.jpg",
     "static/media/shoe ecommerce image.png": "/Portfolio/static/media/shoe ecommerce image.4f1f094121caef8d201a.png",
@@ -9,12 +9,12 @@
     "static/media/project one image.png": "/Portfolio/static/media/project one image.a5b7f96c3c4640623ad4.png",
     "static/media/undraw_feeling_proud_qne1.svg": "/Portfolio/static/media/undraw_feeling_proud_qne1.62a6a2e36167da9c029a.svg",
     "index.html": "/Portfolio/index.html",
-    "main.6691a0a0.css.map": "/Portfolio/static/css/main.6691a0a0.css.map",
-    "main.0c26908f.js.map": "/Portfolio/static/js/main.0c26908f.js.map",
+    "main.77b4d99a.css.map": "/Portfolio/static/css/main.77b4d99a.css.map",
+    "main.249c7f1b.js.map": "/Portfolio/static/js/main.249c7f1b.js.map",
     "787.2dcca737.chunk.js.map": "/Portfolio/static/js/787.2dcca737.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6691a0a0.css",
-    "static/js/main.0c26908f.js"
+    "static/css/main.77b4d99a.css",
+    "static/js/main.249c7f1b.js"
   ]
 }
