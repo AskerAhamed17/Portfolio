@@ -190,7 +190,7 @@ function App() {
             <div className="crud-app-redux" data-aos="fade-up">
               <div className="project-name">
                 <h3>Crud App</h3>
-                <p>Using Redux and Sage</p>
+                <p>Using Redux and Saga</p>
               </div>
             </div>
             <div className="shoe-eccommerce" data-aos="fade-up">
