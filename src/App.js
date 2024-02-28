@@ -26,11 +26,6 @@ function App() {
 
   const [classNames, setClassNames] = useState("animate-close")
 
-  const [submitAnimationStyle, setSubmitAnimationStyle] = useState({
-    color: "black",
-    height: "100%"
-  })
-
   useEffect(() => {
     const handleScroll = () => {
       if (window.scrollY > 300) {
@@ -134,7 +129,7 @@ function App() {
               </div>
             </div>
 
-            <div className="my-details-image-box">
+            <div className="my-details-image-box" data-aos = "fade-up">
 
             </div>
           </div>

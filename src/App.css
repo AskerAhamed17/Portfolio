@@ -1079,6 +1079,13 @@
     width: 310px;
   }
 
+  .form label {
+    font-size: 14px;
+  }
+  .form input {
+    font-size: 14px;
+  }
+
   .form-buttons {
     padding-left: 70px;
   }
